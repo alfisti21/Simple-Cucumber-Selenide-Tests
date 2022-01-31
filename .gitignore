@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+/.idea/.gitignore
+/build/reports/tests/*
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
